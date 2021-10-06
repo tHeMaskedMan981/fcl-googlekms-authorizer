@@ -3,7 +3,7 @@
     "author": "akash",
     "module": "dist/fcl-googlekms-authorizer.esm.js",
     "description": "Google KMS authorizer (signer) for Flow blockchain.",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "license": "MIT",
     "main": "dist/index.js",
     "typings": "dist/index.d.ts",
