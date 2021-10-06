@@ -1,4 +1,8 @@
 {
+    "name": "fcl-googlekms-authorizer",
+    "author": "akash",
+    "module": "dist/fcl-googlekms-authorizer.esm.js",
+    "description": "Google KMS authorizer (signer) for Flow blockchain.",
     "version": "0.1.1",
     "license": "MIT",
     "main": "dist/index.js",
@@ -19,6 +23,17 @@
         "size": "size-limit",
         "analyze": "size-limit --why"
     },
+
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tHeMaskedMan981/fcl-googlekms-authorizer.git"
+    },
+
+    "bugs": {
+        "url": "https://github.com/tHeMaskedMan981/fcl-googlekms-authorizer/issues"
+    },
+    "homepage": "https://github.com/tHeMaskedMan981/fcl-googlekms-authorizer#readme",
+
     "husky": {
         "hooks": {
             "pre-commit": "tsdx lint"
@@ -30,9 +45,7 @@
         "singleQuote": true,
         "trailingComma": "es5"
     },
-    "name": "fcl-googlekms-authorizer",
-    "author": "akash",
-    "module": "dist/fcl-googlekms-authorizer.esm.js",
+    
     "size-limit": [
         {
             "path": "dist/fcl-googlekms-authorizer.cjs.production.min.js",
