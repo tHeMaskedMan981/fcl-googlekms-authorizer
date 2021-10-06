@@ -1,6 +1,3 @@
-[![npm version](https://badge.fury.io/js/fcl-googlekms-authorizer.svg)](https://badge.fury.io/js/fcl-googlekms-authorizer)
-[![test](https://github.com/tHeMaskedMan981/fcl-googlekms-authorizer/actions/workflows/test.yml/badge.svg)](https://github.com/tHeMaskedMan981/fcl-googlekms-authorizer/actions/workflows/test.yml)
-
 # fcl-googlekms-authorizer
 
 Google KMS authorizer (signer) for Flow blockchain.
